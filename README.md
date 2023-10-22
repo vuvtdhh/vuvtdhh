@@ -23,7 +23,7 @@ const vuvtdhh = {
 
 <p align="center">
   <a href="https://vuvtdhh.github.io/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Vũ Văn's profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png" alt="Vũ Văn's profile" height="30" width="30">
   </a>
   &ensp;
   <a href="https://www.linkedin.com/in/vuvtdhh/">
