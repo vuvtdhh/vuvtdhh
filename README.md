@@ -1,4 +1,4 @@
-## Hi, I'm Vũ!
+## :blush: Hi, I'm Vũ!
 
 ## :zap: About me:
 
@@ -21,7 +21,7 @@ let vuvtdhh = {
 
 ## :bar_chart: Github stats:
 
-<h4 align="center">:eyes: Visitors count:</h4>
+<h4 align="center">:sunglasses: Visitors count:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/vuvtdhh/count.svg" alt="Vũ Văn's visitors count"/></p>
 
