@@ -12,7 +12,7 @@ let vuvtdhh = {
     },
     techStack: ['HTML', 'CSS', 'JavaScript', 'C#', 'PHP', 'Microsoft SQL Server', 'Oracle', 'MySQL', 'MongoDB'],
     country: 'Vietnam'
-} 
+}
 ```
 
 ## Reach me at :wave::
