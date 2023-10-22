@@ -21,10 +21,10 @@ const vuvtdhh = {
   <a href="https://vuvtdhh.github.io/" style="margin-right: .5rem;">
     <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png" target="_blank" alt="Vũ Văn's profile" height="32" width="32">
   </a>
-  <a href="https://www.linkedin.com/in/vuvtdhh/" style="margin-right: .5rem;>
+  <a href="https://www.linkedin.com/in/vuvtdhh/" style="margin-right: .5rem;">
     <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg" target="_blank" alt="Vũ Văn's LinkedIn profile" height="32" width="32">
   </a>
-  <a href="https://stackoverflow.com/users/20150386/vu-van" style="margin-right: .5rem;>
+  <a href="https://stackoverflow.com/users/20150386/vu-van" style="margin-right: .5rem;">
     <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg" target="_blank" alt="Vũ Văn's Stack Overflow profile" height="32" width="32">
   </a>
   <a href="mailto:vuvtdhh@gmail.com">
