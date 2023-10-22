@@ -1,6 +1,6 @@
 ## Hi, I'm Vũ!
 
-## About me :zap::
+## :zap: About me:
 
 ```javascript
 let vuvtdhh = {
@@ -15,20 +15,20 @@ let vuvtdhh = {
 }
 ```
 
-## Reach me at :wave::
+## :wave: Reach me at:
 
  [![Vũ Văn's profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png)](https://vuvtdhh.github.io/)  [![Vũ Văn's LinkedIn profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin.png)](https://www.linkedin.com/in/vuvtdhh/)  [![Vũ Văn's Stack Overflow profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow.png)](https://stackoverflow.com/users/20150386/vu-van)  [![mail to Vũ Văn's](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail.png)](mailto:vuvtdhh@gmail.com)
 
-## Github stats :bar_chart::
+## :bar_chart: Github stats:
 
-<h4 align="center">Visitors count :eyes::</h4>
+<h4 align="center">:eyes: Visitors count:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/vuvtdhh/count.svg" alt="Vũ Văn's visitors count"/></p>
 
-<h4 align="center">Top langs :star::</h4>
+<h4 align="center">:star: Top langs:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvtdhh&langs_count=10&theme=tokyonight&layout=compact" alt="Vũ Văn's top langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvtdhh&langs_count=10&theme=tokyonight&layout=compact" alt="Vũ Văn's top langs"/></p>
 
-<h4 align="center">Profile stats :chart_with_upwards_trend::</h4>
+<h4 align="center">:chart_with_upwards_trend: Profile stats:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vuvtdhh&show_icons=true&theme=onedark" alt="Vũ Văn's profile stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vuvtdhh&show_icons=true&theme=onedark" alt="Vũ Văn's profile stats"/></p>
