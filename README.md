@@ -1,6 +1,6 @@
-<h2> Hi, I'm Vũ!</h2>
+## Hi, I'm Vũ!
 
-### About me  
+## About me  
 
 ```javascript
 const vuvtdhh = {
@@ -15,7 +15,7 @@ const vuvtdhh = {
 } 
 ```
 
-<h2>Reach me at :wave:</h2>
+## Reach me at :wave:
 
 <p align="center">
   <a href="https://vuvtdhh.github.io/">
@@ -35,7 +35,7 @@ const vuvtdhh = {
   </a>
 </p>
 
-<h2>Github stats :bar_chart:</h2>
+## Github stats :bar_chart:
 
 <h4 align="center">Visitors count :eyes:</h4>
 
