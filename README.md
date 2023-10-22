@@ -17,7 +17,10 @@ const vuvtdhh = {
 
 ## Reach me at :wave:
 
- [![Vũ Văn's site](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png)](https://vuvtdhh.github.io/)  [![Vũ Văn's LinkedIn profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg) ](https://www.linkedin.com/in/vuvtdhh/)  [![Vũ Văn's Stack Overflow profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg) ](https://stackoverflow.com/users/20150386/vu-van)  [![mail to Vũ Văn](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail-icon.svg)](mailto:vuvtdhh@gmail.com)
+ - [![Vũ Văn's profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png)](https://vuvtdhh.github.io/)
+ - [![Vũ Văn's LinkedIn profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin.png) ](https://www.linkedin.com/in/vuvtdhh/)
+ - [![Vũ Văn's Stack Overflow profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow.png) ](https://stackoverflow.com/users/20150386/vu-van)
+ - [![mail to Vũ Văn's](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail.png)](mailto:vuvtdhh@gmail.com)
 
 ## Github stats :bar_chart:
 
