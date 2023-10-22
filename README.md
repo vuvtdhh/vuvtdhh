@@ -3,7 +3,7 @@
 ## About me:
 
 ```javascript
-const vuvtdhh = {
+let vuvtdhh = {
     name: 'Vũ Văn',
     bio: ['Developer', 'Dream chaser', 'Nature lover', 'Traveler', 'Gamer', 'Blogger'],
     currentlyPosition: {
