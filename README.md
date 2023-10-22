@@ -1,6 +1,6 @@
 ## Hi, I'm Vũ!
 
-## About me:
+## About me :zap::
 
 ```javascript
 let vuvtdhh = {
@@ -32,4 +32,3 @@ let vuvtdhh = {
 <h4 align="center">Profile stats :chart_with_upwards_trend::</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vuvtdhh&show_icons=true&theme=onedark" alt="Vũ Văn's profile stats" /></p>
----
