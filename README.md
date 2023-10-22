@@ -27,15 +27,15 @@ const vuvtdhh = {
   </a>
 
   <a href="https://www.linkedin.com/in/vuvtdhh/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vũ Văn's LinkedIn profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg" alt="Vũ Văn's LinkedIn profile" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/20150386/vu-van">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Vũ Văn's Stack Overflow profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg" alt="Vũ Văn's Stack Overflow profile" height="30" width="30">
   </a>
 
   <a href="mailto:vuvtdhh@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Vũ Văn's Stack Overflow profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail-icon.svg" alt="mail to Vũ Văn's" height="30" width="30">
   </a>
 </p>
 
