@@ -1,9 +1,5 @@
 <h2> Hi, I'm Vũ!</h2>
 
-[![Linkedin: vuvtdhh](https://img.shields.io/badge/-vuvtdhh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vuvtdhh/)](https://www.linkedin.com/in/vuvtdhh/)
-[![GitHub vuvtdhh](https://img.shields.io/github/followers/vuvtdhh?label=follow&style=social)](https://github.com/vuvtdhhn)
-
-
 ### About me...  
 
 ```javascript
@@ -23,19 +19,19 @@ const vuvtdhh = {
 
 <p align="center">
   <a href="https://vuvtdhh.github.io/">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png" alt="Vũ Văn's profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png" target="_blank" alt="Vũ Văn's profile" height="32" width="32">
   </a>
   &ensp;
   <a href="https://www.linkedin.com/in/vuvtdhh/">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg" alt="Vũ Văn's LinkedIn profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg" target="_blank" alt="Vũ Văn's LinkedIn profile" height="32" width="32">
   </a>
   &ensp;
   <a href="https://stackoverflow.com/users/20150386/vu-van">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg" alt="Vũ Văn's Stack Overflow profile" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg" target="_blank" alt="Vũ Văn's Stack Overflow profile" height="32" width="32">
   </a>
   &ensp;
   <a href="mailto:vuvtdhh@gmail.com">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail-icon.svg" alt="mail to Vũ Văn's" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail-icon.svg" target="_blank" alt="mail to Vũ Văn's" height="32" width="32">
   </a>
 </p>
 
