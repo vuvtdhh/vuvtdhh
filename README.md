@@ -17,23 +17,7 @@ const vuvtdhh = {
 
 ## Reach me at :wave:
 
-<p align="center">
-  <a href="https://vuvtdhh.github.io/">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png" target="_blank" alt="Vũ Văn's profile" height="32" width="32">
-  </a>
-  &ensp;
-  <a href="https://www.linkedin.com/in/vuvtdhh/">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg" target="_blank" alt="Vũ Văn's LinkedIn profile" height="32" width="32">
-  </a>
-  &ensp;
-  <a href="https://stackoverflow.com/users/20150386/vu-van">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg" target="_blank" alt="Vũ Văn's Stack Overflow profile" height="32" width="32">
-  </a>
-  &ensp;
-  <a href="mailto:vuvtdhh@gmail.com">
-    <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail-icon.svg" target="_blank" alt="mail to Vũ Văn's" height="32" width="32">
-  </a>
-</p>
+ [![Vũ Văn's site](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png)](https://vuvtdhh.github.io/)  [![Vũ Văn's LinkedIn profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg) ](https://www.linkedin.com/in/vuvtdhh/)  [![Vũ Văn's Stack Overflow profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg) ](https://stackoverflow.com/users/20150386/vu-van)  [![mail to Vũ Văn](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail-icon.svg)](mailto:vuvtdhh@gmail.com)
 
 ## Github stats :bar_chart:
 
