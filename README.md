@@ -4,7 +4,7 @@
 [![GitHub vuvtdhh](https://img.shields.io/github/followers/vuvtdhh?label=follow&style=social)](https://github.com/vuvtdhhn)
 
 
-### A little more about me...  
+### About me...  
 
 ```javascript
 const vuvtdhh = {
@@ -25,11 +25,11 @@ const vuvtdhh = {
   <a href="https://vuvtdhh.github.io/">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Vũ Văn's profile" height="30" width="30">
   </a>
-
+  &ensp;
   <a href="https://www.linkedin.com/in/vuvtdhh/">
     <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin-icon.svg" alt="Vũ Văn's LinkedIn profile" height="30" width="30">
   </a>
-   &ensp;
+  &ensp;
   <a href="https://stackoverflow.com/users/20150386/vu-van">
     <img src="https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow-icon.svg" alt="Vũ Văn's Stack Overflow profile" height="30" width="30">
   </a>
