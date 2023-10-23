@@ -21,14 +21,14 @@ let vuvtdhh = {
 
 ## :bar_chart: Github stats:
 
-#### :sunglasses: Visitors count:
+<h4 align="center">:sunglasses: Visitors count:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/vuvtdhh/count.svg" alt="Vũ Văn's visitors count"/></p>
 
-#### :star: Top langs:
+<h4 align="center">:star: Top langs:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvtdhh&langs_count=10&theme=tokyonight&layout=compact" alt="Vũ Văn's top langs"/></p>
 
-#### :chart_with_upwards_trend: Profile stats:
+<h4 align="center">:chart_with_upwards_trend: Profile stats:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vuvtdhh&show_icons=true&theme=onedark" alt="Vũ Văn's profile stats"/></p>
