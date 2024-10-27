@@ -19,7 +19,12 @@ public class DeveloperProfile
     public Position CurrentPosition { get; set; } = new Position
     {
         Title = "Senior Automation Developer",
-        Company = "Avery Dennison RIS Vietnam"
+        Company = "Avery Dennison RIS Vietnam",
+        Roles = new string[] {
+            "Senior Software Developer",
+            "Technical Lead",
+            "Team Lead",
+        }
     };
 
     public string Country { get; set; } = "Vietnam";
@@ -53,6 +58,7 @@ public class Position
 {
     public string Title { get; set; }
     public string Company { get; set; }
+    public string[] Roles {get; set; }
 }
 
 public class TechStack
@@ -63,13 +69,12 @@ public class TechStack
     public string[] AdvancedSystemDesignAndOptimization { get; set; }
 }
 
-// Usage example:
 var vuvtdhh = new DeveloperProfile();
 ```
 
 ## 👋 Reach me at:
 
- [![Vũ Văn's profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png)](https://vuvtdhh.github.io/)  [![Vũ Văn's LinkedIn profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin.png)](https://www.linkedin.com/in/vuvtdhh/)  [![Vũ Văn's Stack Overflow profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow.png)](https://stackoverflow.com/users/20150386/vu-van)  [![mail to Vũ Văn's](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail.png)](mailto:vuvtdhh@gmail.com)
+ [![Vũ Văn's profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/lightrain.png)](https://vuvtdhh.pages.dev/)  [![Vũ Văn's LinkedIn profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/linkedin.png)](https://www.linkedin.com/in/vuvtdhh/)  [![Vũ Văn's Stack Overflow profile](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/stackoverflow.png)](https://stackoverflow.com/users/20150386/vu-van)  [![mail to Vũ Văn's](https://raw.githubusercontent.com/vuvtdhh/vuvtdhh/main/images/gmail.png)](mailto:vuvtdhh@gmail.com)
 
 ## 📊 Github stats:
 
